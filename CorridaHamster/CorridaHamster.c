@@ -104,5 +104,3 @@ int main()
     }
     return 0;
 }
-
-//Não coloquei "system("cls");", pois, ficou zerando somente metade das respostas.
