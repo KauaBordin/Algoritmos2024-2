@@ -2,11 +2,10 @@
 
 int main() 
 {
-    int i;
-
-    for(i = 70; i >= 25; i--)
+    for(int i = 0; i <= 100; i++)
     {
         printf("%d\n", i);
     }
     return 0;
 }
+

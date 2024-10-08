@@ -2,11 +2,9 @@
 
 int main() 
 {
-    int i;
-
-    for(i = 20; i <= 50; i++)
+    for(int i = 95; i >= 25; i--)
     {
-        if(i % 2 == 0)
+        if(i % 2 != 0)
         {
             printf("%d\n", i);
         }
