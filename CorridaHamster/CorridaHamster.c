@@ -13,7 +13,6 @@ int main()
 
 //--------------Hamster[1]--------------//
         
-        system("cls");
         int n = rand() % 5 + 1;
         if(n == 1)
         {
